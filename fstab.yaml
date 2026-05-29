@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/northamericanmedia/storefront/
+    url: https://content.da.live/northamericanmedia/jldemo/
     type: markup
 
 folders:
