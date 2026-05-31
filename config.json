@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://mcprod.jaipurliving.com/graphql",
+      "commerce-core-endpoint": "https://edge-sandbox-graph.adobe.io/api/2b2c88b3-d75a-40b8-a298-df82150a39bb/graphql",
       "commerce-endpoint": "https://catalog-service.adobe.io/graphql",
       "commerce-assets-enabled": true,
       "headers": {
